@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-weg-ins-licht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Der Weg ins Licht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-weg-ins-licht/) |
+| **Get License** | [Official Music Licensing for Der Weg ins Licht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-weg-ins-licht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2f3b96d3b90a77b720805f71b80cca7fb183003163d272f28c7539cb797a47ec` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

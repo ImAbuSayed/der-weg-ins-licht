@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Der Weg ins Licht
+
+This log tracks the cryptographic history and versioning for the song **Der Weg ins Licht** (der-weg-ins-licht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T12:36:43.196379 | `v1` | `2f3b96d3b90a77b720805f71b80cca7fb183003163d272f28c7539cb797a47ec` | `32201afcbfc423cee2b3731cc7659d1559ca3948c118e4abc3332b20d5d74a3f` | `2026-06-28_der-weg-ins-licht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
